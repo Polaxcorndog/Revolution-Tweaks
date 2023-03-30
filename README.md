@@ -29,3 +29,7 @@ lower expel diplomats by 5 infamy - DONE
 givin colonies malaria modifiers internal africa
 
 Allow command economies without authoritarianism
+
+merge in historical pop growth and resources mod - DONE
+
+merge in most of ultra historical research and education mod, minus army buffs from literacy - DONE
